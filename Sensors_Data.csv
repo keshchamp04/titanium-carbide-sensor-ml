@@ -1,0 +1,139 @@
+﻿Journal Link,TiC Mxene sensor,Functional Group,Response Time (in min),Current density (in μA/cm2),Detection Range (in M),Compound detected,EN of functional group ,Atomic polarizability of functional group (in Å³),Mobility of functional group (in ×10⁻⁸ m²/V·s),Covalent Radii of functional group (in pm),Chemical formula of compound detected,N/O ratio,N/C ratio,C/H ratio,C/O ratio
+https://www.sciencedirect.com/science/article/pii/S0141813023041570,Graphene/TiC,–O,9,1480,5.55556*10-17 - 1.11111*10-8,Carcinoembryonic antigen(CEA),3.44,0.785,20.64,66,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1542
+https://www.sciencedirect.com/science/article/pii/S0141813023041570,Graphene/TiC ,–NH2,9,1480,5.55556*10-17 - 1.11111*10-8,Carcinoembryonic antigen(CEA),3.04,1.096,7.62,71,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1542
+https://www.sciencedirect.com/science/article/pii/S0141813023041570,Graphene/TiC ,–F,9,1480,5.55556*10-17 - 1.11111*10-8,Carcinoembryonic antigen(CEA),3.98,0.554,5.74,57,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1542
+https://www.nature.com/articles/s41598-025-26754-y,PANI/TiC/Au ,–NH–,,452.707,7.03482*10-17 - 7.03482*10-14,Prostate-specific antigen (PSA),3.04,1.096,7.62,71,C1292H2020N352O361S15,0.975,0.2724,0.6396,3.5789
+https://www.mdpi.com/2079-6374/14/6/261,GO/TiC/CNT,–O,,1775.7,10-6 - 9770*10-6,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S0026265X25000864?ref=pdf_download&fr=RR-2&rr=9bdc7c6e09f57eb2,TiC/Au,–F,20,27.2,1.28205*10-13 - 1.28205*10-9,Neuron specific enolase(NSE),3.98,0.554,5.74,57,C2089H3317N569O651S14,0.874,0.27238,0.6298,3.2089
+https://www.sciencedirect.com/science/article/pii/S0026265X25000864?ref=pdf_download&fr=RR-2&rr=9bdc7c6e09f57eb2,TiC/Au,–O,20,27.2,1.28205*10-13 - 1.28205*10-9,Neuron specific enolase(NSE),3.44,0.785,20.64,66,C2089H3317N569O651S14,0.874,0.27238,0.6298,3.2089
+https://pubs.acs.org/doi/10.1021/acsabm.4c01379,TiC/Ag,–OH,,742.723,1.48214*10-12 - 2.66785*10-10,Tumor necrosis factor-α (TNF-α),3.44,0.785,20.64,66,C1152H1825N313O337S6,0.92878,0.2717,0.6312,3.4184
+https://link.springer.com/article/10.1007/s00604-025-06968-7#MOESM1,IL/TiC,–NH2,,25.1497,0.005*10-6 - 300*10-6,Tryptophan (Trp),3.04,1.096,7.62,71,C11H12N2O2,1,0.1818,0.9166,5.5
+https://link.springer.com/article/10.1007/s00604-025-06968-7#MOESM1,IL/TiC,–F,,25.1497,0.005*10-6 - 300*10-6,Tryptophan (Trp),3.98,0.554,5.74,57,C11H12N2O2,1,0.1818,0.9166,5.5
+https://link.springer.com/article/10.1007/s10800-023-02065-w#Tab1,Au/GO/TiC,–O,,19955.555,10-5 - 21*10-3,Glucose,3.44,0.785,20.64,66,C6H12O6,0,0,0.5,1
+https://www.sciencedirect.com/science/article/pii/S2468519422001203?via%3Dihub#tbl2,TiC/Cu2O,–O,0.0833,4843.75,10-5 - 3*10-2,Glucose,3.44,0.785,20.64,66,C6H12O6,0,0,0.5,1
+https://www.sciencedirect.com/science/article/pii/S2468519422001203?via%3Dihub#tbl2,TiC/Cu2O,–OH,0.0833,4843.75,10-5 - 3*10-2,Glucose,3.44,0.785,20.64,66,C6H12O6,0,0,0.5,1
+https://pubs.acs.org/doi/10.1021/acsabm.5c01857,TiC/Apt,═O,3,7258.064,5.405*10-17 - 5.405*10-7 ,Human epidermal growth factor receptor 2 (HER-2),,0.785,20.64,66,C6066H9519N1695O1818S82,0.93234,0.2794,0.6372,3.3366
+https://pubs.acs.org/doi/10.1021/acsabm.5c01857,TiC/Apt,–OH,3,7258.064,5.405*10-17 - 5.405*10-7 ,Human epidermal growth factor receptor 2 (HER-2),3.44,0.785,20.64,66,C6066H9519N1695O1818S82,0.93234,0.2794,0.6372,3.3366
+https://pubs.acs.org/doi/10.1021/acsabm.5c01857,TiC/Apt,–F,3,7258.064,5.405*10-17 - 5.405*10-7 ,Human epidermal growth factor receptor 2 (HER-2),3.98,0.554,5.74,57,C6066H9519N1695O1818S82,0.93234,0.2794,0.6372,3.3366
+https://www.sciencedirect.com/science/article/pii/S0956566318306857?pes=vor&utm_source=scopus&getft_integrator=scopus,aminosilane/TiC,–OH,,2600,5.55556*10-16 -  1.11111*10-8,Carcinoembryonic antigen(CEA),3.44,0.785,20.64,66,C3394H5266N930O1076S15,0.8643,0.274,0.6455,3.1543
+https://www.sciencedirect.com/science/article/pii/S0956566318306857?pes=vor&utm_source=scopus&getft_integrator=scopus,aminosilane/TiC,–F,,2600,5.55556*10-16 -  1.11111*10-8,Carcinoembryonic antigen(CEA),3.98,0.554,5.74,57,C3394H5266N930O1076S15,0.8643,0.274,0.6455,3.1543
+https://www.sciencedirect.com/science/article/pii/S1567539425003123,Au/NH₂-UiO-66/NH₂/TiC,–NH2,,3.11653,10-12 - 10-9,miRNA-122,3.04,1.096,7.62,71,C210H214N82O136P22,0.6029,0.3905,0.9813,1.5441
+https://www.sciencedirect.com/science/article/pii/S1567539425003123,Au/NH₂-UiO-66/NH₂/TiC,–F,,3.11653,10-12 - 10-9,miRNA-122,3.98,0.554,5.74,57,C210H214N82O136P22,0.6029,0.3905,0.9813,1.5441
+https://www.sciencedirect.com/science/article/pii/S1567539425003123,Au/NH₂-UiO-66/NH₂/TiC,–OH,,3.11653,10-12 - 10-9,miRNA-122,3.44,0.785,20.64,66,C210H214N82O136P22,0.6029,0.3905,0.9813,1.5441
+https://www.sciencedirect.com/science/article/pii/S0925400525018295,PEG/Mn/TiC,–OH,,972.2222,4.18831*10-15 - 2.094153*10-8,cardiac troponin I(cTnI),3.44,0.785,20.64,66,C1035H1736N328O315S6,1.04127,0.3169,0.5871,3.2857
+https://www.sciencedirect.com/science/article/pii/S0925400525018295,PEG/Mn/TiC,–O,,972.2222,4.18831*10-15 - 2.094153*10-8,cardiac troponin I(cTnI),3.44,0.785,20.64,66,C1035H1736N328O315S6,1.04127,0.3169,0.5871,3.2857
+https://www.sciencedirect.com/science/article/pii/S0925400525018295,PEG/Mn/TiC,–F,,972.2222,4.18831*10-15 - 2.094153*10-8,cardiac troponin I(cTnI),3.98,0.554,5.74,57,C1035H1736N328O315S6,1.04127,0.3169,0.5871,3.2857
+https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2023.1176046/full,TiC/Au,,,7.6666,10-14 - 10-8,KRAS G12D,,,,,C953H1533N261O293S10,0.89078,0.273872,0.6217,3.2526
+https://www.sciencedirect.com/science/article/pii/S1742706122003762,MoS2/ReS2/TiC,–O,,219.2,10-16 - 10-9,"piRNA-31,143",3.44,0.785,20.64,66,C242H246N103O144P25,0.7153,0.4256,0.9837,1.6805
+https://www.sciencedirect.com/science/article/pii/S0039914021009991,MoS2/TiC,–O,,8.21,10-15 - 10-7,CRC-related miR-92a-3p,3.44,0.785,20.64,66,C206H216N76O136P22,0.5588,0.3689,0.9537,1.5147
+https://www.sciencedirect.com/science/article/pii/S0956566320304103,TiC/CdS,═O,,69.333,10-13 - 10-6,miRNA159c,3.44,0.785,20.64,66,C201H206N81O129P21,0.6279,0.403,0.9757,1.5581
+https://www.sciencedirect.com/science/article/pii/S0167732220309909,TiC,,,-142.857,10-8 - 114*10-6,4-Nitroquinoline N-oxide (4-NO),,,,, C9H6N2O3,0.6666,0.2222,1.5,3
+https://www.sciencedirect.com/science/article/pii/S0026265X24019088,MnxOy/TiC,,0.025,184,5*10-8 - 6.5*10-8,Hydrogen Peroxide (H2O2),,,,,H2O2,0,,0,0
+https://www.mdpi.com/1422-0067/23/20/12502,CNT/TiC/Pd,,,1985.915,5*10-5 - 1.8*10-2,Hydrogen Peroxide (H2O2),,,,,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S0003267019311997,Fe/TiC/Apt/Au,–F,,35.555,10-12 - 10-5,Mucin1 (MUC1),3.98,0.554,5.74,57,C5275H8231N1573O1762S7,0.89273,0.2982,0.64087,2.9938
+https://www.sciencedirect.com/science/article/pii/S0956566324006158,TiC/CNT,–O,,61,2.77778*10-14 - 5.55556*10-12,Carcinoembryonic antigen(CEA),3.44,0.785,20.64,66,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1542
+https://www.sciencedirect.com/science/article/pii/S1385894724033059,Cu/TiAlC,–OH,,78.888,10-9 - 83.76*10-6,Fluorouracil (FLU),3.44,0.785,20.64,66,C4H3FN2O2,1,0.5,1.33,2
+https://onlinelibrary.wiley.com/doi/10.1002/smtd.202500475,Pt/SeS2/TiC,–OH,,117.6,1.2*10-10 - 2.5*10-7,Cyclophilin-B (CypB),3.44,0.785,20.64,66,C1080H1709N285O304S6,0.9375,0.26388,0.6319,3.5526
+https://onlinelibrary.wiley.com/doi/10.1002/smtd.202500475,Pt/SeS2/TiC,–O,,117.6,1.2*10-10 - 2.5*10-7,Cyclophilin-B (CypB),3.44,0.785,20.64,66,C1080H1709N285O304S6,0.9375,0.26388,0.6319,3.5526
+https://onlinelibrary.wiley.com/doi/10.1002/smtd.202500475,Pt/SeS2/TiC,–F,,117.6,1.2*10-10 - 2.5*10-7,Cyclophilin-B (CypB),3.98,0.554,5.74,57,C1080H1709N285O304S6,0.9375,0.26388,0.6319,3.5526
+https://pubs.acs.org/doi/10.1021/acsomega.2c06505,TiC,–OH,,1018.59,5*10-7 - 10-4,4-nitrophenol (4-NP),3.44,0.785,20.64,66,C6H5NO3,0.3333,0.16666,1.2,2
+https://pubs.acs.org/doi/10.1021/acsomega.2c06505,TiC,–F,,1018.59,5*10-7 - 10-4,4-nitrophenol (4-NP),3.98,0.554,5.74,57,C6H5NO3,0.3333,0.16666,1.2,2
+https://www.sciencedirect.com/science/article/pii/S1572665720311632,Pt/TiC,,,1386.416,5*10-8 - 5*10-6,Bisphenol A (BPA),,,,,C15H16O2,0,0,0.9375,7.5
+https://link.springer.com/article/10.1007/s11581-025-06273-6,CNT/TiC,,,149.6259,1.64*10⁻⁷ - 5.2*10⁻⁸,Temozolomide (TMZ),,,,,C6H6N6O2,3,1,1,3
+https://link.springer.com/article/10.1007/s00604-024-06320-5,MnO2/MoTiC,–O,,33.9716,10-9 - 2*10-8,Fenitrothion (FEN),3.44,0.785,20.64,66,C9H12NO5PS,0.2,0.1111,0.75,1.8
+https://www.sciencedirect.com/science/article/pii/S001346861730539X,TiC,–OH,0.1666,51.88,,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S001346861730539X,TiC,–O,0.1666,51.88,,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S001346861730539X,TiC,–F,0.1666,51.88,,Hydrogen Peroxide (H2O2),3.98,0.554,5.74,57,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S1226086X19303612,Nafion/TiC,–OH,,18.978,1.5*10-8 - 10-5,Dopamine (DA),3.44,0.785,20.64,66,C8H11NO2,0.5,0.125,0.7273,4
+https://www.sciencedirect.com/science/article/pii/S1226086X19303612,Nafion/TiC,–F,,18.978,1.5*10-8 - 10-5,Dopamine (DA),3.98,0.554,5.74,57,C8H11NO2,0.5,0.125,0.7273,4
+https://www.sciencedirect.com/science/article/pii/S1572665718302315,TiC/Pd/Pt,,,36.64,2*10-7 - 10-3,Dopamine (DA),,,,,C8H11NO2,0.5,0.125,0.7273,4
+https://www.sciencedirect.com/science/article/pii/S0169433219323517,TiC/Ni/Co,–O,0.05,1273.2395,2*10-6 - 4.096*10-3,Glucose,3.44,0.785,20.64,66,C6H12O6,0,0,0.5,1
+https://pubs.rsc.org/en/content/articlelanding/2019/ay/c9ay00912d,Pd/TiC,–O,,937.5,5*10-7 - 10-5,L-cysteine (L-Cys),3.44,0.785,20.64,66,C3H7NO2S,0.5,0.3333,0.4286,1.5
+https://pubs.rsc.org/en/content/articlelanding/2019/ay/c9ay00912d,Pd/TiC,–F,,937.5,5*10-7 - 10-5,L-cysteine (L-Cys),3.98,0.554,5.74,57,C3H7NO2S,0.5,0.3333,0.4286,1.5
+https://pubs.rsc.org/en/content/articlelanding/2025/sd/d5sd00114e,TB/COOH/TiC,–O,,104.688,5*10-6 - 1.1*10-3,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://link.springer.com/article/10.1007/s00604-022-05249-x,CNT/Cu2O/TiC,,,104.58,10-8 -7*10-5 ,Diethylstilbestrol (DES),,,,,C18H20O2,0,0,0.9,9
+https://www.tandfonline.com/doi/full/10.1080/00032719.2024.2417356#d1e680,AlOOH/TiC ,–O,,76.923,5*10-7 - 5*10-6,Quercetin,3.44,0.785,20.64,66,C15H10O7,0,0,1.5,2.1429
+https://www.tandfonline.com/doi/full/10.1080/00032719.2024.2417356#d1e680,AlOOH/TiC ,–OH,,76.923,5*10-7 - 5*10-6,Quercetin,3.44,0.785,20.64,66,C15H10O7,0,0,1.5,2.1429
+https://www.sciencedirect.com/science/article/pii/S030881462301227X,Au/PDA/TiC,═O,66.6666,47.222,1.8*10-8 - 6.74*10-4,β-Nicotinamide adenine dinucleotide (NADH),3.44,0.785,20.64,66,C21H29N7O14P2,0.5,0.3333,0.7241,1.5
+https://www.sciencedirect.com/science/article/pii/S030881462301227X,Au/PDA/TiC,–OH,66.6666,47.222,1.8*10-8 - 6.74*10-4,β-Nicotinamide adenine dinucleotide (NADH),3.44,0.785,20.64,66,C21H29N7O14P2,0.5,0.3333,0.7241,1.5
+https://www.sciencedirect.com/science/article/pii/S030881462301227X,Au/PDA/TiC,–NH2,66.6666,47.222,1.8*10-8 - 6.74*10-4,β-Nicotinamide adenine dinucleotide (NADH),3.04,1.096,7.62,71,C21H29N7O14P2,0.5,0.3333,0.7241,1.5
+https://www.sciencedirect.com/science/article/pii/S0026265X23006227,V2O5/TiC,–O,,85.9155,4.14*10-7 - 3.12*10-5,Bisphenol A (BPA),3.44,0.785,20.64,66,C15H16O2,0,0,0.9375,7.5
+https://www.sciencedirect.com/science/article/pii/S0026265X23006227,V2O5/TiC,–F,,85.9155,4.14*10-7 - 3.12*10-5,Bisphenol A (BPA),3.98,0.554,5.74,57,C15H16O2,0,0,0.9375,7.5
+https://www.sciencedirect.com/science/article/pii/S0045653521025789,Graphene/TiC,,,988,10-6 - 10-5,Bisphenol A (BPA),,,,,C15H16O2,0,0,0.9375,7.5
+https://www.sciencedirect.com/science/article/pii/S0026265X2201044X,Nafion/TiC,,,2295.7746,5.0*10-8 - 2.5*10-5,Capsaicin,,,,,C18H27NO3,0.3333,0.0555,0.6666,6
+https://www.tandfonline.com/doi/full/10.1080/00032719.2023.2220842,TiC/Carbon,–O,,1380,5.0*10-7 - 2*10-5,Luteolin,3.44,0.785,20.64,66,C15H10O6,0,0,1.5,2.5
+https://www.tandfonline.com/doi/full/10.1080/00032719.2023.2220842,TiC/Carbon,–OH,,1380,5.0*10-7 - 2*10-5,Luteolin,3.44,0.785,20.64,66,C15H10O6,0,0,1.5,2.5
+https://link.springer.com/article/10.1007/s10008-025-06379-x,TiO2/TiC,–O,,1875,10-12 - 10-7,Levofloxacin (LEV),3.44,0.785,20.64,66,C18H20FN3O4,0.75,0.16666,0.9,4.5
+https://link.springer.com/article/10.1007/s10008-025-06379-x,TiO2/TiC,–OH,,1875,10-12 - 10-7,Levofloxacin (LEV),3.44,0.785,20.64,66,C18H20FN3O4,0.75,0.16666,0.9,4.5
+https://link.springer.com/article/10.1007/s10008-025-06379-x,TiO2/TiC,–F,,1875,10-12 - 10-7,Levofloxacin (LEV),3.98,0.554,5.74,57,C18H20FN3O4,0.75,0.16666,0.9,4.5
+https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04428f,Carbon/TiC/Au,–O,,740.926,10-10 - 10-6,Nicotine,3.44,0.785,20.64,66,C10H14N2,,0.2,0.7143,
+https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04428f,Carbon/TiC/Au,–O,,740.196,10-10 - 10-6,Nicotine,3.44,0.785,20.64,66,C10H14N2,,0.2,0.7143,
+https://www.sciencedirect.com/science/article/pii/S1005030220308136,TiC,–O,,-12.1676,10-4 - 10-3,Ascorbic acid (AA),3.44,0.785,20.64,66,C6H8O6,0,0,0.75,1
+https://www.sciencedirect.com/science/article/pii/S1005030220308136,TiC,–O,,-6.5028,5*10-7 - 5*10-5,Dopamine (DA) ,3.44,0.785,20.64,66,C8H11NO2,0.5,0.125,0.7273,4
+https://www.sciencedirect.com/science/article/pii/S1005030220308136,TiC,–O,,-42.0704,5*10-7 - 4*10-6,Uric acid (UA),3.44,0.785,20.64,66,C5H4N4O3,1.3333,0.8,1.25,1.6666
+https://www.sciencedirect.com/science/article/pii/S0956713521006708,K+ ions/TiC,,,2506.69,10-8 - 5*10-5,Triclosan (TCS),,,,,C12H7Cl3O2,0,0,1.7143,6
+https://www.mdpi.com/1424-8220/25/18/5838,TiC,,,220.6896,5*10-9 - 3*10-7,Fenclorim (FM),,,,,C10H6Cl2N,,0.1,1.6666,
+https://link.springer.com/article/10.1007/s00604-021-05104-5,MoS2/CNT/TiC,–F,,156.2916,9.423*10-9 - 9.423*10-7,Zearalenone (ZEA),3.98,0.554,5.74,57,C18H22O5,0,0,0.8182,3.6
+https://link.springer.com/article/10.1007/s00604-021-05104-5,MoS2/CNT/TiC,–N,,156.2916,9.423*10-9 - 9.423*10-7,Zearalenone (ZEA),3.04,1.096,7.62,71,C18H22O5,0,0,0.8182,3.6
+https://link.springer.com/article/10.1007/s00604-021-05104-5,MoS2/CNT/TiC,–OH,,156.2916,9.423*10-9 - 9.423*10-7,Zearalenone (ZEA),3.44,0.785,20.64,66,C18H22O5,0,0,0.8182,3.6
+https://pubs.acs.org/doi/10.1021/acssuschemeng.0c03281,TiC/BN,–F,,53.7736,10-8 - 4.4*10-5,Sulfadiazine (SFZ),3.98,0.554,5.74,57,C10H10N4O2S,2,0.4,1,5
+https://pubs.acs.org/doi/10.1021/acssuschemeng.0c03281,TiC/BN,–O,,53.7736,10-8 - 4.4*10-6,Sulfadiazine (SFZ),3.44,0.785,20.64,66,C10H10N4O2S,2,0.4,1,5
+https://pubs.acs.org/doi/10.1021/acssuschemeng.0c03281,TiC/BN,–OH,,53.7736,10-8 - 4.4*10-7,Sulfadiazine (SFZ),3.44,0.785,20.64,66,C10H10N4O2S,2,0.4,1,5
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202503004,Cd/Te/TiC,–F,,490.71,10-7 - 10-3,Propyl Gallate,3.98,0.554,5.74,57,C10H12O5,0,0,0.8333,2
+https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202503004,Cd/Te/TiC,–O,,490.71,10-7 - 10-3,Propyl Gallate,3.44,0.785,20.64,66,C10H12O5,0,0,0.8333,2
+https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsu.202501260,Ni/Fe/TiC,–O,,2.027,10-5 - 1.85*10-3,Catechol (CA),3.44,0.785,20.64,66,C6H6O2,0,0,1,3
+https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsu.202501260,Ni/Fe/TiC,–OH,,2.027,10-5 - 1.85*10-3,Catechol (CA),3.44,0.785,20.64,66,C6H6O2,0,0,1,3
+https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01048e,L-Cyst/Fe/TiC,–O,,1699.84,1.66*10-11 - 10-9,CYFRA 21-1,3.44,0.785,20.64,66,C1897H3051N559O633S9,0.8831,0.29467,0.6218,2.9968
+https://pubs.acs.org/doi/10.1021/acsami.2c07660,CNT/TiC/Fe,–O,,7916.666,10-6 - 10-3,Uric acid (UA),3.44,0.785,20.64,66,C5H4N4O3,1.3333,0.8,1.25,1.6666
+https://pubs.acs.org/doi/10.1021/acsami.2c07660,CNT/TiC/Fe,–OH,,7916.666,10-6 - 10-3,Uric acid (UA),3.44,0.785,20.64,66,C5H4N4O3,1.3333,0.8,1.25,1.6666
+https://pubs.acs.org/doi/10.1021/acsami.2c07660,CNT/TiC/Fe,–F,,7916.666,10-6 - 10-3,Uric acid (UA),3.44,0.785,20.64,66,C5H4N4O3,1.3333,0.8,1.25,1.6666
+https://iopscience.iop.org/article/10.1088/1742-6596/2500/1/012004,TiC/Pt,,,433.333,10-4 - 6*10-4,Levodopa,,,,,C9H11NO4,0.25,0.1111,0.8182,2.25
+https://iopscience.iop.org/article/10.1088/1361-6528/ac1a42,TiC/CNT,–F,,-250,9*10-8 - 10-7,Ochratoxin A (OTA),3.98,0.554,5.74,57,C20H18ClNO6,0.1666,0.05,1.1111,3.3333
+https://iopscience.iop.org/article/10.1088/1361-6528/ac1a42,TiC/CNT,–OH,,-250,9*10-8 - 10-7,Ochratoxin A (OTA),3.44,0.785,20.64,66,C20H18ClNO6,0.1666,0.05,1.1111,3.3333
+https://www.sciencedirect.com/science/article/pii/S0956566321002803,Chit/TiC,–OH,,-6000,3*10-10 - 4.5*10-9,Cholesterol,3.44,0.785,20.64,66,C27H46O,0,0,0.587,27
+https://www.sciencedirect.com/science/article/pii/S0308814621010128,TiC/Ag/CNT,–O,3,237.873,3*10-10 - 10-5,Carbendazim,3.44,0.785,20.64,66,C9H9N3O2,1.5,0.3333,1,4.5
+https://www.sciencedirect.com/science/article/pii/S0308814621010128,TiC/Ag/CNT,–OH,3,237.873,3*10-10 - 10-5,Carbendazim,3.44,0.785,20.64,66,C9H9N3O2,1.5,0.3333,1,4.5
+https://www.sciencedirect.com/science/article/pii/S0013468619316421,NiO/TiC,–F,,98.591,10-5 - 4.5*10-3,Hydrogen Peroxide (H2O2),3.98,0.554,5.74,57,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S0013468619316421,NiO/TiC,–OH,,98.591,10-5 - 4.5*10-3,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/celc.202100964,TiC,═O,0.06666,168.3168,10-7 - 3*10-4,H2S,3.44,0.785,20.64,66,H2S,,,0,
+https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/celc.202100964,TiC,–F,0.06666,168.3168,10-7 - 3*10-4,H2S,3.98,0.554,5.74,57,H2S,,,0,
+https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/celc.202100964,TiC,–OH,0.06666,168.3168,10-7 - 3*10-4,H2S,3.44,0.785,20.64,66,H2S,,,0,
+https://www.sciencedirect.com/science/article/pii/S1572665720309930,TiC/ZIF-67/CNT,,4.6666,114.806,10-10 - 10-6,Luteolin,,,,,C15H10O6,0,0,1.5,2.5
+https://www.sciencedirect.com/science/article/pii/S2452262726000073,Graphene/Au/TiC,–OH,,18.521,10-7 - 8.5*10-6,Vanillin,3.44,0.785,20.64,66,C8H8O3,0,0,1,2.6666
+https://www.sciencedirect.com/science/article/pii/S2452262726000073,Graphene/Au/TiC,–F,,18.521,10-7 - 8.5*10-6,Vanillin,3.98,0.554,5.74,57,C8H8O3,0,0,1,2.6666
+https://www.sciencedirect.com/science/article/pii/S1385894723044248,TiC/GO,–OH,0.66666,-333.1875,5*10-8 - 10-5,Nitrofurantoin (NFT),3.44,0.785,20.64,66,C8H6N4O5,0.8,0.5,1.3333,1.6
+https://www.sciencedirect.com/science/article/pii/S1385894723044248,TiC/GO,–O,0.66666,-333.1875,5*10-8 - 10-5,Nitrofurantoin (NFT),3.44,0.785,20.64,66,C8H6N4O5,0.8,0.5,1.3333,1.6
+https://www.sciencedirect.com/science/article/pii/S1385894723044248,TiC/GO,–OH,0.66666,-274.0625,5*10-8 - 10-5,Nilutamide (NLT),3.44,0.785,20.64,66,C12H10F3N3O,3,0.25,1.2,12
+https://www.sciencedirect.com/science/article/pii/S1385894723044248,TiC/GO,–O,0.66666,-274.0625,5*10-8 - 10-5,Nilutamide (NLT),3.44,0.785,20.64,66,C12H10F3N3O,3,0.25,1.2,12
+https://onlinelibrary.wiley.com/doi/10.1002/sstr.202400034,TiC/TiO2/GO,,,20,3*10-9 - 3*10-4,Uric acid (UA),,,,,C5H4N4O3,1.3333,0.8,1.25,1.6666
+https://onlinelibrary.wiley.com/doi/10.1002/smll.202208209,TiC/Co3O4,–F,,2732.857,0 - 7.5*10-5,Hydrogen Peroxide (H2O2),3.98,0.554,5.74,57,H2O2,0,,0,0
+https://link.springer.com/article/10.1007/s00604-022-05555-4,SnO2/TiC,,,13.8322,4*10-9 - 8*10-6,Dopamine (DA),,,,,C8H11NO2,0.5,0.125,0.7273,4
+https://link.springer.com/article/10.1007/s00604-021-04884-0,PDI/TiC,,0.03333,1019.2857,10-4 - 10-3,Dopamine (DA),,,,,C8H11NO2,0.5,0.125,0.7273,4
+https://www.sciencedirect.com/science/article/pii/S0003267022000915,N/S/TiC,–F,,53.521,2*10-6 - 4*10-4,Uric acid (UA),3.98,0.554,5.74,57,C5H4N4O3,1.3333,0.8,1.25,1.6666
+https://www.sciencedirect.com/science/article/pii/S0008622322005462,TiC/CNT/CuMOF,–O,,66.9616,5.3*10-7 - 2.3246*10-4,Tyrosine,3.44,0.785,20.64,66,C9H11NO3,0.3333,0.1111,0.8182,3
+https://www.sciencedirect.com/science/article/pii/S0008622322005462,TiC/CNT/CuMOF,–OH,,66.9616,5.3*10-7 - 2.3246*10-4,Tyrosine,3.44,0.785,20.64,66,C9H11NO3,0.3333,0.1111,0.8182,3
+https://www.sciencedirect.com/science/article/pii/S0304389422014984,TiC/Graphene,–F,,880,3*10-8 - 5*10-4,Nicotine,3.98,0.554,5.74,57,C10H14N2,,0.2,0.7143,
+https://www.sciencedirect.com/science/article/pii/S0304389422014984,TiC/Graphene,–O,,880,3*10-8 - 5*10-4,Nicotine,3.44,0.785,20.64,66,C10H14N2,,0.2,0.7143,
+https://www.sciencedirect.com/science/article/pii/S0022459622000433,CeMOF/TiC,–O,,11.371,2*10-7 - 1.39*10-4,L-Tryptophan,3.44,0.785,20.64,66,C11H12N2O2,1,0.1818,0.9166,5.5
+https://link.springer.com/article/10.1007/s12161-025-02856-1,Graphene/TiC,–O,,8359.8726,10-15 - 10-5,Chloramphenicol (CAP),3.44,0.785,20.64,66,C11H12Cl2N2O,2,0.1818,0.9166,11
+https://link.springer.com/article/10.1007/s12161-025-02856-1,Graphene/TiC,–OH,,8359.8726,10-15 - 10-5,Chloramphenicol (CAP),3.44,0.785,20.64,66,C11H12Cl2N2O,2,0.1818,0.9166,11
+https://link.springer.com/article/10.1007/s12161-025-02856-1,Graphene/TiC,–F,,8359.8726,10-15 - 10-5,Chloramphenicol (CAP),3.98,0.554,5.74,57,C11H12Cl2N2O,2,0.1818,0.9166,11
+https://pubs.rsc.org/en/content/articlelanding/2025/nr/d4nr04388j,UN/TiC,–OH,,62.5,3.2*10-8 - 1.6*10-4,Acetaminophen (AP),3.44,0.785,20.64,66,C8H9NO2,0.5,0.125,0.8888,4
+https://link.springer.com/article/10.1007/s00604-024-06209-3,TiC/Ni/Sm,,,2100,10-5 - 2*10-4,Glucose,,,,,C6H12O6,0,0,0.5,1
+https://link.springer.com/article/10.1007/s00216-021-03212-y,Au/TiC,–O,,4268.868,1.25*10-14 - 2.5*10-10,CYFRA 21-1,3.44,0.785,20.64,66,C1897H3051N559O633S9,0.8831,0.29467,0.6218,2.9968
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/elan.70046,Carbon/CNT/TiC,–O,,2816.9014,5*10-8 - 5.03*10-4,Hesperidin (HPD),3.44,0.785,20.64,66,C28H34O15,0,0,0.8235,1.8666
+https://pubs.rsc.org/en/content/articlelanding/2022/an/d2an01432g,TiC/SnO2,,2,-68.4807,8*10-9 - 10-5,Sudan I,,,,,C16H12N2O,2,0.125,1.3333,16
+https://www.sciencedirect.com/science/article/pii/S0956566319306104,TiC,,,37.56,5*10-12 - 10-8,Gliotoxin,,,,,C13H14N2O4S2,0.5,0.15384,0.9286,3.25
+https://www.sciencedirect.com/science/article/pii/S0026265X24014942,MO/TiC ,–O,,-154.4117,3.3*10-7 - 1.2*10-3,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S0026265X24014942,MO/TiC ,–OH,,-154.4117,3.3*10-7 - 1.2*10-3,Hydrogen Peroxide (H2O2),3.44,0.785,20.64,66,H2O2,0,,0,0
+https://www.sciencedirect.com/science/article/pii/S0026265X24014942,MO/TiC ,–F,,-154.4117,3.3*10-7 - 1.2*10-3,Hydrogen Peroxide (H2O2),3.98,0.554,5.74,57,H2O2,0,,0,0
+https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202521857,Nafion/TiC,–O,1.4,22.0447,1.34*10-8 - 3.35*10-4,Methamphetamine,3.44,0.785,20.64,66,C10H15N,,0.1,0.6666,
+https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202521857,Nafion/TiC,–OH,1.4,22.0447,1.34*10-8 - 3.35*10-4,Methamphetamine,3.44,0.785,20.64,66,C10H15N,,0.1,0.6666,
+https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202521857,Nafion/TiC,–F,1.4,22.0447,1.34*10-8 - 3.35*10-4,Methamphetamine,3.98,0.554,5.74,57,C10H15N,,0.1,0.6666,
+https://www.sciencedirect.com/science/article/pii/S0026265X23006343,TiC/CNT/PPY,–O,,244.444,5*10-11 - 5*10-7,Carcinoembryonic antigen(CEA),3.44,0.785,20.64,66,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1543
+https://www.sciencedirect.com/science/article/pii/S0026265X23006343,TiC/CNT/PPY,–OH,,244.444,5*10-11 - 5*10-7,Carcinoembryonic antigen(CEA),3.44,0.785,20.64,66,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1543
+https://www.sciencedirect.com/science/article/pii/S0026265X23006343,TiC/CNT/PPY,–F,,244.444,5*10-11 - 5*10-7,Carcinoembryonic antigen(CEA),3.98,0.554,5.74,57,C3394H5266N930O1076S15,0.8643,0.274,0.6445,3.1543
+https://www.sciencedirect.com/science/article/pii/S2468023025008405,TiC,–O,,1122.2222,10-5 - 2*10-4,Estradiol,3.44,0.785,20.64,66,C18H24O2,0,0,0.75,9
+https://www.sciencedirect.com/science/article/pii/S2468023025008405,TiC,–OH,,1122.2222,10-5 - 2*10-4,Estradiol,3.44,0.785,20.64,66,C18H24O2,0,0,0.75,9
+https://www.sciencedirect.com/science/article/pii/S2468023025008405,TiC,–F,,1122.2222,10-5 - 2*10-4,Estradiol,3.98,0.554,5.74,57,C18H24O2,0,0,0.75,9
+,,,,,,,,,,,,,,,
